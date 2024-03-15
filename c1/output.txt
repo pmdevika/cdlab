@@ -1,0 +1,26 @@
+
+#include<stdio.h>
+#include<math.h>
+#include<string.h>
+#include<ctype.h>
+#include<stdlib.h>
+char a[10][10],f[10],c;
+int n,m;
+void first(char c)
+{
+if(!isupper)
+{
+    f[m++]=c;
+}
+for(int i=0;i<n;i++)
+{
+    if(a[i][0]==c)
+    {
+        \* if(a[i][2]=='$')
+        follow(c);
+        else if (islower(a[i][2]))
+        f[m++]=a[i][2];
+        else
+        first(a[i][2]); */
+    }
+}
